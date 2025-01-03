@@ -1,6 +1,6 @@
 - 👋 Oi, sou a Allana
 - 📚 No momento cursando CC
-- 🌱 Estou prendendo linguagem C e intercalando com a facu
+- 🌱 Estou aprendendo JS e intercalando com a facu
 - 🙋‍♀️ Nova na area de TI então buscando novos conhecimentos aqui no Gh
 - Obg 🏃‍♀️
 
